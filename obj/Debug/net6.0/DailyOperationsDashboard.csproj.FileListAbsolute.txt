@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\bin\Debug\net6.0\DailyOperationsDashboard.exe
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\bin\Debug\net6.0\DailyOperationsDashboard.deps.json
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\bin\Debug\net6.0\DailyOperationsDashboard.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\bin\Debug\net6.0\DailyOperationsDashboard.dll
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\bin\Debug\net6.0\DailyOperationsDashboard.pdb
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.dll
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\refint\DailyOperationsDashboard.dll
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.pdb
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\DailyOperationsDashboard.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\notes\200 School\205 Fall 2025\CS 4213 - SDP\Assignments\Group\Participation 3\obj\Debug\net6.0\ref\DailyOperationsDashboard.dll
